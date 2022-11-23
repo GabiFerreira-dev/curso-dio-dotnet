@@ -1,4 +1,4 @@
-Comando no Gitbash:
+Comandos do Gitbash:
 
 clonar:
 git clone https://github.com/GabiFerreira-dev/curso-dio-dotnet.git
