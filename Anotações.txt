@@ -1,3 +1,18 @@
 Comando no Gitbash:
 
+clonar:
 git clone https://github.com/GabiFerreira-dev/curso-dio-dotnet.git
+
+verificar se tem arquivos pra adicionar:
+git status 
+
+adicionar arquivos:
+git add . ou git add -A
+
+comitar alterações:
+git commit -m "inclusão das anotações do projeto."
+
+enviar as alterações pra nuvem:
+git push origin main
+
+
