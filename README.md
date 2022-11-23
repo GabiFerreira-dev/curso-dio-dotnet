@@ -1,5 +1,5 @@
-# curso-dio-dotnet
-Repositório criado para compartilhar meu progresso no curso de .net C# da DIO.
+# Curso de .Net C# da DIO
+Repositório criado para compartilhar meu progresso no curso.
 
 Primeira etapa - Criaçao do repositório GitHub.
 
